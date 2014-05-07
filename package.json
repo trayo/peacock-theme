@@ -1,0 +1,11 @@
+{
+  "name": "peacock-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A syntax theme based on the sublime theme called Peacock",
+  "repository": "https://github.com/atom/peacock-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
