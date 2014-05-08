@@ -1,4 +1,4 @@
-# peacock-theme theme
+# peacock theme
 
 A festive feel syntaxt theme for atam
 
