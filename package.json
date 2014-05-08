@@ -1,7 +1,7 @@
 {
   "name": "peacock",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A syntax theme based on the sublime theme called Peacock",
   "repository": "https://github.com/adooylabs/peacock-theme",
   "license": "MIT",
