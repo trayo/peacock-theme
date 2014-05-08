@@ -3,4 +3,4 @@
 A festive feel syntaxt theme for atam
 
 %screenshot%
-(https://github.com/adooylabs/peacock-theme/screenshot.png)
+![Peacock screenshot](https://github.com/adooylabs/peacock-theme/screenshot.png)
