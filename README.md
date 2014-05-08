@@ -1,8 +1,8 @@
-# peacock theme
+# Peacock Syntax Theme
 
 A festive feel syntaxt theme for atam
 
-##screenshot
+## Screenshot
 
 ![Peacock screenshot](https://raw.githubusercontent.com/adooylabs/peacock-theme/master/screenshot.png)
 
