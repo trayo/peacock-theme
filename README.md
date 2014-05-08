@@ -2,4 +2,5 @@
 
 A festive feel syntaxt theme for atam
 
-![A screenshot of your theme]
+%screenshot%
+(https://github.com/adooylabs/peacock-theme/screenshot.png)
