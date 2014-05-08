@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.0.0",
   "description": "A syntax theme based on the sublime theme called Peacock",
-  "repository": "https://github.com/atom/peacock-theme",
+  "repository": "https://github.com/adooylabs/peacock-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
