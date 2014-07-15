@@ -1,6 +1,6 @@
 # Peacock Syntax Theme
 
-A festive feel syntaxt theme for atam
+A festive feel syntax theme for Atom
 
 ## Screenshot
 
